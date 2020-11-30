@@ -68,7 +68,13 @@ Persembahan dari axcora technology untuk sekolah indonesia.
 
 Selesai...
 
+Apabila masih kesulitan cek video demo nya [Play Video →](https://www.youtube.com/watch?v=k5ShqrpbDIs)
+
+Lihat demo dan bekerja nya aplikasi ini [get started →](https://axcora.com/cmssekolah/)
+
 Semoga bermanfaat untuk aplikasi pembuatan website sekolah gratis ini.
+
+Persembahan dari [axcora school apps →](https://axcora.com/sekolah.html)
 
 Jika membutuhkan website dan aplikasi sekolah hubungi kami dan konsultasikan project anda kepada kami.
 Whatsapp : +6285646104747 / Call : +6285331361404
