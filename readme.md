@@ -1,5 +1,7 @@
 # Axcora school apps
 
+bantuan dan dokumentasi penggunaan : https://www.hockeycomputindo.com/2021/01/cms-sekolah-keren-siap-pakai-nih-cocok.html
+
 ![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/aplikasi%20pembuatan%20website%20sekolah%20gratis.png/max/max/1)
 
 Aplikasi pembuatan website sekolah gratis. dengan simple fitur dan mudah digunakan dalam project website sekolah.
@@ -71,6 +73,8 @@ Selesai...
 Apabila masih kesulitan cek video demo nya [Play Video →](https://www.youtube.com/watch?v=k5ShqrpbDIs)
 
 Lihat demo dan bekerja nya aplikasi ini [get started →](https://axcora.com/cmssekolah/)
+
+bantuan dan dokumentasi penggunaan : https://www.hockeycomputindo.com/2021/01/cms-sekolah-keren-siap-pakai-nih-cocok.html
 
 Semoga bermanfaat untuk aplikasi pembuatan website sekolah gratis ini.
 
