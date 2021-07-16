@@ -33,14 +33,6 @@
 <div class="col-12 col-12 p-3 p-md-5 text-center">
 <small>copyrights <a href="https://axcora.com/sekolah.html">axcora technology</a></small>
 </div>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-<script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-<script src='https://bstp.sourceforge.io/gallerya.js'></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
-  <script src="assets/js/main.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script><script src='https://cdn.jsdelivr.net/npm/vue/dist/vue.js'></script>  <script src="assets/vendor/venobox/venobox.min.js"></script><script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script><script src='https://mesinkasir.github.io/larapos/pos/gallerya.js'></script><script src="assets/vendor/counterup/counterup.min.js"></script><script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script><script src="assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>  <script src="assets/js/main.js"></script>
 </body>
 </html>
