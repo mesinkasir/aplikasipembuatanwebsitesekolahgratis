@@ -2,29 +2,17 @@
 
 bantuan dan dokumentasi penggunaan : https://www.hockeycomputindo.com/2021/01/cms-sekolah-keren-siap-pakai-nih-cocok.html
 
-![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/aplikasi%20pembuatan%20website%20sekolah%20gratis.png/max/max/1)
+![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://1.bp.blogspot.com/-l3IzGZkyDo4/YPDr-RU6SnI/AAAAAAAAP3k/CINv92-LrGMG9NZeTv8C5NhB5hKquqw5QCLcBGAsYHQ/s1260/axcora%2Bschool%2Bcms%2Bsekolah%2Bwebsite%2Bgratis%2Bfree%2Bdownload%2Bsource%2Bcode.jpg)
 
 Aplikasi pembuatan website sekolah gratis. dengan simple fitur dan mudah digunakan dalam project website sekolah.
 
-![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/pembuatan%20website%20sekolah%20gratis%20dengan%20aplikasi%20software%20sekolah%20ini%20axcora%20school%20web%20app%20cms%20%281%29.png/max/max/1)
+![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://1.bp.blogspot.com/-XNThSPJwGNA/YPDrQXJpVjI/AAAAAAAAP20/eEY-Jj9FrrIXNJrAr5KavurxJQvxiS9QwCLcBGAsYHQ/s3012/aplikasi%2Bpembuatan%2Bwebsite%2Bsekolah%2Bgratis%2B%25281%2529.png)
 
-Yang tentunya sudah kami skema kan akan alur dan fitur agar memudahkan pengguna hanya dengan edit artikel post sesuai kebutuhan sekolah saja.
-
-![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/aplikasi%20pembuatan%20website%20sekolah%20gratis%20dari%20axcora%20technology%20axcora%20school%20web%20app%20login.jpg/max/max/1)
-
-Responsif dan dapat melakukan update via smartphone maupun destkop dengan login fitur untuk kebutuhan akses web app admin.
-
-![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/aplikasi%20pembuatan%20website%20sekolah%20gratis%20dari%20axcora%20technology%20axcora%20school%20web%20app.jpg/max/max/1)
-
-Dashbaord mobile menu semakin mobile dalam berbagai kebutuhan update data dimana saja dan kapan saja secara real time online.
-
-![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/aplikasi%20pembuatan%20website%20sekolah%20gratis%20dari%20axcora%20technology%20axcora%20school%20web%20app2.jpg/max/max/1)
-
-Dashboard backoffice admin dengan desain UI kekinian untuk website gratis sekolah siap pakai.
-
-![Aplikasi Pembuatan website sekolah gratis download axcora school cms](https://a.fsdn.com/con/app/proj/axcoraschool/screenshots/aplikasi%20pembuatan%20website%20sekolah%20gratis%20dari%20axcora%20technology%20axcora%20school%20web%20app3.jpg/max/max/1)
-
-Simple dan sangat mudah untuk digunakan membangun project website sekolah dengan struktur dan alur skema yang kami buat, demi kemudahan dan kemajuan dunia pendidikan indonesia khusus nya sekolah.
++ Yang tentunya sudah kami skema kan akan alur dan fitur agar memudahkan pengguna hanya dengan edit artikel post sesuai kebutuhan sekolah saja.
++ Responsif dan dapat melakukan update via smartphone maupun destkop dengan login fitur untuk kebutuhan akses web app admin.
++ Dashbaord mobile menu semakin mobile dalam berbagai kebutuhan update data dimana saja dan kapan saja secara real time online.
++ Dashboard backoffice admin dengan desain UI kekinian untuk website gratis sekolah siap pakai.
++ Simple dan sangat mudah untuk digunakan membangun project website sekolah dengan struktur dan alur skema yang kami buat, demi kemudahan dan kemajuan dunia pendidikan indonesia khusus nya sekolah.
 
 ![axcora technology](https://axcora.com/img/axcora%20design%20pembuatan%20website%20blogspot%20template.gif)
 
